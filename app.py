@@ -11,7 +11,7 @@ feature_names = joblib.load("feature_names.pkl")
 # =========================
 # 2. UI Streamlit
 # =========================
-st.title("Demo ML: Aprobación de Crédito (SVM + StandardScaler)")
+st.title("Demo ML: Aprobación de Crédito (SVM + StandardScaler) + GitHub")
 st.write("Modelo entrenado en notebook y cargado desde archivo .pkl.")
 
 st.sidebar.header("Datos del cliente")
